@@ -5,6 +5,12 @@
 
 ### Command
 
+- Create `models` folder
+
+```
+mkdir models
+```
+
 - First, export environment variable so that program can read the correct path!
 
 ```
