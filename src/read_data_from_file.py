@@ -74,6 +74,3 @@ class ReadFiles:
                 words_sents.append(words_sent)
 
         return words_sents
-
-# print(len(ReadFiles("en_train_tagged.txt").word_tag_tuples()))
-# ReadFiles("en_dev_raw.txt").word_raw()
